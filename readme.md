@@ -1,0 +1,1 @@
+jangan kek kontol
